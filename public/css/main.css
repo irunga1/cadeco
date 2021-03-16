@@ -1,0 +1,93 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+/*MENU*/
+#fixed-div {
+    position: fixed;
+    top: 1em;
+    left: 1em;
+    background-color: "#fff";
+    z-index: 9999;
+}
+
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #AD2234;        
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+    z-index: 1000000;
+}
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 15px;
+    color: #FFF;
+    display: block;
+    transition: 0.3s;
+}
+.mItem{
+    display: inline-block;
+    
+    padding:3px
+}
+
+.sidenav .mItem:hover{
+    display: inline-block;
+    border-bottom: 1px dotted #fff;
+    padding:3px
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+}   
+/*MENU*/
+.tmMain {
+    width: 100%;
+    min-height: 100%;
+    height: auto;
+    background-color: #FFF;
+    float: right;
+}
+body{
+    position:absolute;
+    width:100%;
+    height:100%;
+    margin:0px;
+    padding:0px;
+}
+#s1home{
+	background-image: ;
+	background: url("http://localhost/wpirunga1/public/img/Banderas-01.jpg") no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+
+}
+.logoContainer{
+	max-width: 75%;
+	text-align: center;
+}
+.logoContainer img{
+	max-width: 90%;
+	text-align: center;
+}
