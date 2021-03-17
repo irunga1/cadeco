@@ -8,4 +8,7 @@ class Home extends CI_Controller {
 		$data["view"] ="home/index";
 		$this->load->view('cd_template',$data);
 	}
+	public function base(){
+		echo base_url();
+	}
 }
