@@ -94,3 +94,16 @@ body{
 .upside{
 	padding-top: 20px;
 }
+
+.cdPersonItm {
+    max-width: 300px;
+    /* border: 1px solid gray; */
+    display: inline-block;
+	width: 24%;
+	margin-left: 10px ;
+	margin-right: 10px;
+	margin-top: 15px;
+}
+.cdItmImg{
+	text-align: center;
+}
