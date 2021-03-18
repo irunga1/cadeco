@@ -19,9 +19,9 @@
 		<img src="<?php echo base_url()."public/img/cln.png" ?>" alt="">
 	</div>
   <a href="javascript:void(0)" class="closebtn" onclick="obj1.closeNav();">&times;</a>
-  <a href="#"> <span class="mItem">Inicio</span> </a>
-  <a href="#"> <span class="mItem">Mision</span></a>
-  <a href="#"> <span class="mItem">Directorio</span> </a>
-  <a href="#"> <span class="mItem">Membresias</span> </a>
-  <a href="#"> <span class="mItem">Miembros</span> </a>
+  <a href="<?php echo base_url("home/index"); ?>"> <span class="mItem">Inicio</span> </a>
+  <a href="<?php echo base_url("mision/index"); ?>"> <span class="mItem">Mision</span></a>
+  <a href="<?php echo base_url("directorio/index"); ?>"> <span class="mItem">Directorio</span> </a>
+  <a href="<?php echo base_url("membresias/index"); ?>"> <span class="mItem">Membresias</span> </a>
+  <a href="<?php echo base_url("miembros/index"); ?>"> <span class="mItem">Miembros</span> </a>
 </div>
