@@ -12,5 +12,5 @@ class Menu{
 }
 
 obj1 = new Menu();
-obj1.openNav();
-obj1.closeNav();
+// obj1.openNav();
+// obj1.closeNav();

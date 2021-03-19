@@ -21,7 +21,9 @@ body{
     overflow-x: hidden;
     transition: 0.5s;
     padding-top: 60px;
-    z-index: 1000000;
+	z-index: 1000000;
+	min-width: 250px;
+	width: 23%;
 }
 
 .sidenav a {
@@ -91,8 +93,8 @@ body{
 	max-width: 90%;
 	text-align: center;
 }
-.cdupside{
-	padding-top: 50px;
+.cdupside {
+    padding-top: 115px;
 }
 
 .cdPersonItm {
@@ -121,4 +123,34 @@ body{
 }
 .cdInfoContainer{
 	text-align: left;
+}
+.textContent {
+	border: 1px solid gray;
+	position: relative;
+    min-height: 100%;
+    height:100%;
+    margin:0px;
+	padding:0px;
+	display: block;
+	padding:12%;
+}
+.fullsize{
+	height: 100%;
+}
+
+.cdImgAf{
+	border: 1px solid gray;
+	display: inline-block;
+	min-width: 125px;
+	margin-left:5px;
+	margin-right:5px;
+}
+.imageContainer{
+	text-align: center;
+	padding-left: 0;
+	padding-right: 30px;
+
+}
+h2{
+	text-align: center;
 }

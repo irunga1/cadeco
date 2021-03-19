@@ -5,7 +5,7 @@ class Miembros extends CI_Controller {
 
 	public function index()
 	{
-		$data["view"] ="home/index";
+		$data["view"] ="miembros/index";
 		$this->load->view('cd_template',$data);
 	}
 	public function base(){
