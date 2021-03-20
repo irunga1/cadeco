@@ -1,5 +1,6 @@
-body{
+html, body{
 	font-family: 'Open Sans', sans-serif;
+	color: #0D1D44;
 }
 /*MENU*/
 #fixed-div {
@@ -66,7 +67,7 @@ body{
     width: 100%;
     min-height: 100%;
     height: auto;
-    background-color: #FFF;
+    background-color: #F2F2F2;
     float: right;
 }
 body{
@@ -77,7 +78,6 @@ body{
     padding:0px;
 }
 #s1home{
-	background-image: ;
 	background: url("http://52.207.9.238/cadeco/public/img/Banderas-01.jpg") no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -153,4 +153,18 @@ body{
 }
 h2{
 	text-align: center;
+}
+
+.card {
+	text-align: justify;
+}
+
+.verMas {
+	display:block;
+	margin:10px;
+	text-align: center;
+}
+
+.cdTitle {
+	color: #0162AA;
 }

@@ -9,86 +9,113 @@
 			<h1 class="cdTitleImg"> </h1>
 		</div>
 	</div>
+
 	<div class="row">
-		<div class="col-md-3"></div>
-		<div class="col-md-9">
-			<div> <img src="<?php echo base_url()."public/img/gchl.png" ?>" alt=""></div>
-			<div class="row">
-				<div class="col-md-4 cdNews">
-					<div class="image"></div>
-					<div class="text">
-						<h3>lorem ipsum watsara watsare1</h3>
-						<p>lorem ipsum watsara watsare bla bla lorem ipsum watsara watsare bla blalorem ipsum watsara
-							watsare bla bla</p>
+		<div class="col-sm-9 offset-sm-4">
+			<img src="<?php echo base_url()."public/img/gchl.png" ?>" alt="">
+		</div>
+	</div>
+	<div class="row">
+
+		<div class="col-sm-8 offset-sm-3">
+
+			<div class="card-deck">
+
+				<div class="col-lg-4 col-md-12 col-sm-12 d-flex align-items-stretch">
+
+					<div class="card">
+						<img src="<?php echo base_url()."public/img/index_maya_feria.png"; ?>" class="card-img-top" alt="MAYA la Gran Feria Internacional">
+						<div class="card-body">
+							<h5 class="card-title">
+								<strong>MAYA la Gran Feria Internacional</strong>
+							</h5>
+							<p class="card-text">
+								No es sólo otra feria, es un evento que celebra la cultura, el arte y la tradición de los países participantes. Además de divertirse, promocionar sus productos nacionales y su cultura, támbién esta contribuyendo con organizaciones no lucrativas como: La Cámara de Comercio Guatemala USA, Organización sin Fines de Lucro, Estado Tributario . Todos los inmigrantes de países participantes presentes y es una oportunidad para celebrar y revivir nuestras raíces en un ambiente divertido y festivo con música, comida y entretenimiento 
+							</p>
+						</div>
+						<hr>
+						<a href="#" class="mx-auto"> Ver Más </a>
 					</div>
+
 				</div>
-				<div class="col-md-4 cdNews">
-					<div class="image"></div>
-					<div class="text">
-						<h3>lorem ipsum watsara watsare2</h3>
-						<p>lorem ipsum watsara watsare bla bla lorem ipsum watsara watsare bla blalorem ipsum watsara
-							watsare bla bla</p>
+
+				<div class="col-lg-4 col-md-12 col-sm-12 d-flex align-items-stretch">
+
+					<div class="card">
+						<img src="<?php echo base_url()."public/img/index_manos.png"; ?>" class="card-img-top" alt="CADECOGUATE">
+						<div class="card-body">
+							<h5 class="card-title">
+								<strong>CADECOGUATE</strong>
+							</h5>
+							<p class="card-text">
+								Cámara de Comercio de Guatemala en Estados Unidos presentará el apoyo para los segmentos mas importantes de Guatemala. ¡Conexión directa y virtual entre Guatemala y Estados Unidos! Nuestra próxima presentación virtual la conocerás y todos sus beneficios para formar parte de Cámara. Iniciativa de alguna foto que desees implementar aquí en la última parte. 
+							</p>
+						</div>
+						<hr>
+						<a href="#" class="mx-auto"> Ver Más </a>
 					</div>
+
 				</div>
-				<div class="col-md-4 cdNews">
-					<div class="image"></div>
-					<div class="text">
-						<h3>lorem ipsum watsara watsare3</h3>
-						<p>lorem ipsum watsara watsare bla bla lorem ipsum watsara watsare bla blalorem ipsum watsara
-							watsare bla bla</p>
+				
+				<div class="col-lg-4 col-md-12 col-sm-12 d-flex align-items-stretch">
+
+					<div class="card">
+						<img src="<?php echo base_url()."public/img/index_lata.png" ?>" class="card-img-top" alt="CADECOGUATE">
+						<div class="card-body">
+							<h5 class="card-title">
+								<strong>UNDECO</strong>
+							</h5>
+							<p class="card-text">
+							El movimiento unido de CADECOGUATE para el apoyo en donación de alimentos en comunidades , ha logrado alcanzar a más de 162,000 familias latinas logrando un impacto social impresionante en los Ángeles. Se ha convertido en la plataforma de apoyo mensual de las personas que lo necesitan. ¡Conocerás más resultados pronto 
+							</p>
+						</div>
+						<hr>
+						<a href="#" class="mx-auto"> Ver Más </a>
 					</div>
+
 				</div>
+
 			</div>
+
 		</div>
 	</div>
 </section>
+
+
 <section class="tmMain">
-	<div class="row">
-		<div class="cdupside">
-		</div>
-		<div class="col-md-3"></div>
-		<div class="col-md-9">
-			<div class="cdTitle">
-				<h1>MENSAJE DEL PRESIDENTE</h1>
-			</div>
-			<div class="row">
 
-
-				<div class="col-md-8">
-					<p>Es un placer liderar la Cámara de Comercio de Guatemala en Estados Unidos (CADECOGUATE);
-						la cual funge como un promotor bilateral de relaciones comerciales de inversión y asociación
-						entre ambos países fundada en el año 2019. A través de nuestra extensa red de oficinas
-						en ambos países, proveemos soluciones de alto valor a las empresas afiliadas en los diversos
-						sectores estratégicos de acción, permitiéndoles generar un ambiente propicio para
-						la consolidación de negocios entre ambos países.
-					</p>
-					<p>
-						Por medio de Cámara se impulsarán importantes iniciativas en materia de: Comercio Exterior,
-						Seguridad en el Transporte, Eficiencia en la Cadena de Suministro y Cobertura de Divisas
-						entre otros. Estamos seguros que los ejes planteados permitirán procesos de gestión
-						más eficientes al interior de las empresas redundando en un mayor desarrollo y competitividad.
-						Impulsaremos a las PYMES que buscan desarrollarse o consolidarse en materia de
-						Comercio Exterior, ofreciéndoles una membresía especial y contarán con un Centro
-						de Información que facilitará su incursión en el mercado norteamericano.</p>
-					<p>En mi carácter de Presidente de Cámara de Comercio de Guatemala
-						en Estados Unidos / Guatemala Chamber of Commerce (Cadecoguate); reitero mi compromiso
-						y apoyo con la organización y sus afiliados y me permito darles la más cordial bienvenida.
-					</p>
-					<p>
-						<h6><strong>Lic. Rafael Oscal</strong></h6>
-						<h6>Presidente/CEO</h6>
-						<h6>Cámara de Comercio Guatemala USA</h6>
-					</p>
-				</div>
-
-				<div class="col-md-4">
-				</div>
-			</div>
+	<div class="row mt-5 ml-1">
+		<div class="col-md-6 offset-md-3">
+	
+			<h1>
+				<strong>MENSAJE DEL PRESIDENTE</strong>
+				<hr>
+			</h1>
+			<p>
+				Es un placer liderar la Cámara de Comercio de Guatemala en Estados Unidos (CADECOGUATE); la cual funge como un promotor bilateral de relaciones comerciales de inversión y asociación entre ambos países fundada en el año 2019. A través de nuestra extensa red de oficinas en ambos países, proveemos soluciones de alto valor a las empresas afiliadas en los diversos sectores estratégicos de acción, permitiéndoles generar un ambiente propicio para la consolidación de negocios entre ambos países. 
+			</p>
+			<p>
+				Por medio de Cámara se impulsarán importantes iniciativas en materia de: Comercio Exterior, Seguridad en el Transporte, Eficiencia en la Cadena de Suministro y Cobertura de Divisas entre otros. Estamos seguros que los ejes planteados permitirán procesos de gestión más eficientes al interior de las empresas redundando en un mayor desarrollo y competitividad. Impulsaremos a las PYMES que buscan desarrollarse o consolidarse en materia de Comercio Exterior, ofreciéndoles una membresía especial y contarán con un Centro de Información que facilitará su incursión en el mercado norteamericano. 
+			</p>
+			<p>
+				En mi carácter de Presidente de Cámara de Comercio de Guatemala en Estados Unidos / Guatemala Chamber of Commerce (Cadecoguate); reitero mi compromiso y apoyo con la organización y sus afiliados y me permito darles la más cordial bienvenida.
+			</p>
+			<p>
+				<h6><strong>Lic. Rafael Oscal</strong></h6>
+				<h6>Presidente/CEO</h6>
+				<h6>Cámara de Comercio Guatemala USA</h6>
+			</p>
 		</div>
 
+		<div class="col-md-2">
+
+			<img src="<?php echo base_url()."public/img/1.png" ?>" class="card-img-top" alt="CADECOGUATE">
+			
+		</div>
 
 	</div>
 </section>
+
 <section class="tmMain">
 	<div class="cdupside">
 		<div class="row">
