@@ -1,17 +1,19 @@
 <section class="tmMain ">
 	<div class="row">
-		<div class="col-md-3">
-		</div>
-		<div class="col-md-9">
+
+		<div class="col-md-12" style="padding-left:275px;" >
 			<div class="cdupside">
 			</div>
 			<h2><strong>CONTACTANOS</strong></h2>
 			<hr>
 			<div class="row">
 				<div class="col-md-6">
-					<h4>
-					¡Descubre más formas de ayudar!
-					</h4>
+					<h6>
+						<strong>
+							¡Descubre más formas de ayudar!
+						</strong>
+					
+					</h6>
 					<p>
 					Hay muchas maneras de apoyar nuestra Camara.
 					Contáctenos para obtener más información sobre
@@ -27,17 +29,16 @@
 		</div>
 	</div>
 	<footer class="footer">
-		<div class="row">
-			<div class="col-md-3"></div>
-			<div class="col-md-9">
-				<img alt ="aa" src="<?php echo base_url()."public/img/cln.png" ?>" alt="">
+		<div class="row">			
+			<div style="padding-left:275px;" class="col-md-12">
+				<img  alt ="aa" src="<?php echo base_url()."public/img/cln.png" ?>" alt="">
 				<div class="ul">
-					<li><a href="">Inicio </a></li>
-					<li><a href=""> Misión </a></li>
-					<li><a href=""> Visión </a></li>
-					<li><a href=""> Directorio </a></li>
-					<li><a href=""> Membresias </a></li>
-					<li><a href=""> Miembros </a></li>
+					<li><a href="<?php echo base_url("home/index"); ?>">Inicio </a></li>
+					<li><a href="<?php echo base_url("mision/index"); ?>"> Misión </a></li>
+					<li><a href="<?php echo base_url("directorio/index"); ?>">Directorio  </a></li>
+					<li><a href="<?php echo base_url("membresias/index"); ?>"> Membresias  </a></li>
+					<li><a href="<?php echo base_url("miembros/index"); ?>">Miembros </a></li>
+					
 				</div>
 
 			</div>
@@ -66,3 +67,8 @@
     
 </body>
 </html>
+
+
+
+
+
