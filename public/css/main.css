@@ -190,3 +190,11 @@ h2{
 	
 	display: inline;
 }
+ svg{
+	color:white;
+}
+
+.ul li svg:not(:root) {
+    overflow: hidden;
+    color: white;
+}
