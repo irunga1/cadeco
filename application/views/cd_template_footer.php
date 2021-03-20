@@ -1,6 +1,6 @@
 <section class="tmMain ">
 	<div class="row">
-		<div class="col-md-3">
+		<div class="col-md-2">
 		</div>
 		<div class="col-md-9">
 			<div class="cdupside">
@@ -28,7 +28,7 @@
 	</div>
 	<footer class="footer">
 		<div class="row">
-			<div class="col-md-3"></div>
+			<div class="col-md-2"></div>
 			<div class="col-md-9">
 				<img alt ="aa" src="<?php echo base_url()."public/img/cln.png" ?>" alt="">
 				<div class="ul">

@@ -1,6 +1,7 @@
 html, body{
 	font-family: 'Open Sans', sans-serif;
 	color: #0D1D44;
+	background-color: #F2F2F2;
 }
 /*MENU*/
 #fixed-div {
@@ -58,18 +59,53 @@ html, body{
     font-size: 36px;
     margin-left: 50px;
 }
+
 @media screen and (max-height: 450px) {
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}
 }   
+
 /*MENU*/
-.tmMain {
+.tmMainBanderas {
+	width: 100%;
+    height: 100%;
+    background-color: #F2F2F2;
+    float: right;
+}
+
+.tmMainPrimera {
     width: 100%;
-    min-height: 100%;
     height: auto;
     background-color: #F2F2F2;
     float: right;
 }
+
+.tmMain {
+    width: 100%;
+    height: auto;
+    background-color: #F2F2F2;
+    float: right;
+	margin: 50px 0; 
+}
+
+.tmMainImagen h2 {
+	color: white;
+}
+
+.tmMainImagen hr {
+	height: 1px;
+	background-color: #ccc;
+	border: none;
+}
+
+.tmMainImagen {
+	color: white;
+	min-height: 70%;
+	background: url('../img/fondo_historia.jpg') no-repeat center center;
+	background-size:100% auto;
+	bottom: 30%
+}
+
 body{
     position:absolute;
     width:100%;
@@ -78,13 +114,20 @@ body{
     padding:0px;
 }
 #s1home{
-	background: url("http://52.207.9.238/cadeco/public/img/Banderas-01.jpg") no-repeat center center fixed; 
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
+	height: 100%;
+    width: 100%;
+    position: relative;
 
 }
+
+#s1home video {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	object-fit: cover;
+	z-index: 0;
+  }
+
 .logoContainer{
 	max-width: 75%;
 	text-align: center;
@@ -152,7 +195,8 @@ body{
 
 }
 h2{
-	text-align: center;
+	color: #0162AA;
+	font-weight: 600;
 }
 
 .card {
@@ -189,4 +233,9 @@ h2{
 .footer li {
 	
 	display: inline;
+}
+
+#fondoHistoria {
+	background-color: #0162AA;
+	padding: 40px 20px;
 }
