@@ -23,8 +23,8 @@ html, body{
     transition: 0.5s;
     padding-top: 60px;
 	z-index: 1000000;
-	min-width: 250px;
-	width: 23%;
+	/* min-width: 250px; */
+	/* width: 23%; */
 }
 
 .sidenav a {
@@ -167,4 +167,26 @@ h2{
 
 .cdTitle {
 	color: #0162AA;
+}
+
+.footer {
+	margin-top: 25px;
+    background-color: 4798D1;
+    height: 275px;    
+	background-color: #4798D1;
+	text-align: center;
+}
+.footer img {
+    max-width: 200px;
+}
+
+.footer ul{	
+	list-style: none;
+}
+.footer li a{
+	color:white;	
+}
+.footer li {
+	
+	display: inline;
 }
