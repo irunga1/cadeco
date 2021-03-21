@@ -119,7 +119,9 @@ body{
     position: relative;
 
 }
-
+.pdleft{
+	padding-left:275
+}
 #s1home video {
 	width: 100%;
 	height: 100%;

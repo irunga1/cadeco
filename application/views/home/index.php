@@ -14,7 +14,7 @@
 
 	<div class="row">
 
-		<div class="col-sm-12">
+		<div class="col-sm-10 offset-md-2">
 			<img class="mx-auto d-block" src="<?php echo base_url()."public/img/gchl.png" ?>" alt="">
 			<!-- <div style="position: fixed; top: 0; width: 100%; height: 100%; z-index: -1;">
 				<video id="video" style="width:100%; height:100%">
@@ -25,7 +25,8 @@
 	</div>
 	<div class="row">
 
-		<div class="col-sm-9 offset-sm-2">
+		<!-- <div class="col-sm-9 offset-sm-2"> -->
+		<div class="col-sm-9 offset-sm-3">
 
 			<div class="card-deck">
 
@@ -93,7 +94,7 @@
 <section class="tmMain">
 
 	<div class="row mt-5 ml-1">
-		<div class="col-md-6 offset-md-2">
+		<div class="col-md-6 offset-md-3">
 	
 			<h2>
 				<strong>MENSAJE DEL PRESIDENTE</strong>
