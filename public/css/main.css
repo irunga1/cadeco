@@ -234,19 +234,16 @@ h2{
 	
 	display: inline;
 }
-<<<<<<< HEAD
  svg{
 	color:white;
 }
 
-.ul li svg:not(:root) {
+svg:not(:root) {
     overflow: hidden;
     color: white;
 }
-=======
 
 #fondoHistoria {
 	background-color: #0162AA;
 	padding: 40px 20px;
 }
->>>>>>> e3d53d8638df4394c79553dc16fbc1e142eb0624

@@ -1,13 +1,7 @@
 <section class="tmMain ">
 	<div class="row">
-<<<<<<< HEAD
 
 		<div class="col-md-12" style="padding-left:275px;" >
-=======
-		<div class="col-md-2">
-		</div>
-		<div class="col-md-9">
->>>>>>> e3d53d8638df4394c79553dc16fbc1e142eb0624
 			<div class="cdupside">
 			</div>
 			<h2><strong>CONTACTANOS</strong></h2>
