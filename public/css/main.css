@@ -181,14 +181,16 @@ body{
 }
 .fullsize{
 	height: 100%;
+	padding-left: 275px;
 }
 
 .cdImgAf{
-	border: 1px solid gray;
+	/* border: 1px solid gray; */
 	display: inline-block;
-	min-width: 125px;
+	/* min-width: 125px; */
 	margin-left:5px;
 	margin-right:5px;
+	height:85px;
 }
 .imageContainer{
 	text-align: center;
@@ -248,4 +250,14 @@ svg:not(:root) {
 #fondoHistoria {
 	background-color: #0162AA;
 	padding: 40px 20px;
+}
+.cdFooterP{
+	padding:60pt
+}
+.fullsize h2{
+	text-align: center;
+}
+
+.cdItmImg img{
+	width:110px;
 }

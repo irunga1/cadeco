@@ -4,10 +4,10 @@
 		<div class="col-md-12" style="padding-left:275px;" >
 			<div class="cdupside">
 			</div>
-			<h2><strong>CONTACTANOS</strong></h2>
+			<h2><strong>CONTÁCTANOS</strong></h2>
 			<hr>
 			<div class="row">
-				<div class="col-md-6">
+				<div class="col-md-6 cdFooterP">
 					<h6>
 						<strong>
 							¡Descubre más formas de ayudar!
@@ -22,7 +22,21 @@
 					sus amigos y familiares.
 					</p>
 				</div>
-				<div class="col-md-6">
+				<div class="col-md-6 cdFooterP">
+				<form>
+					<div class="form-group ">						
+						<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+						
+					</div>
+					<div class="form-group">						
+					<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+					</div>
+					<div class="form-group">
+						<textarea name="" id="" cols="30" rows="5" class="form-control"></textarea>
+						
+					</div>
+					<button type="submit" class="btn btn-primary">Enviar</button>
+					</form>
 				</div>
 			</div>
 
