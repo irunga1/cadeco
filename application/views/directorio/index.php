@@ -14,7 +14,7 @@
 					</div>
 					<div class="info">
 					<strong>RAFAEL OSCAL</strong><br>
-					<div>PRESIDENTE CEO</div>
+					<div class ="titleP1">PRESIDENTE CEO</div>
 					roscal@cadecoguate.com <br>
 					<div class="cdOtherInfo">
 					CROSS PROMOTION MARKETING,
@@ -29,7 +29,7 @@
 					</div>
 					<div class="info">
 						<strong>CAROLINA AREVALO</strong><br>
-							<div>
+							<div class ="titleP1">
 							PRESIDENTE MEMBRESIAS Y PATROCINIOS
 							</div>					
 							maricarmen@cadecoguate.com <br>
@@ -45,10 +45,11 @@
 					</div>
 					<div class="info">
 					<strong>MARICARMEN FUENTES</strong><br>
-					<div>
+					<div class ="titleP1">
 						VICE-PRESIDENTE
 						EMPRESAS & MERCADEO
 					</div>
+					maricarmen@cadecoguate.com <br>
 					<div class="cdOtherInfo">
 					CROSS PROMOTION MARKETING,
 					INC.
@@ -56,13 +57,14 @@
 					</div>				
 					</div>
 				</div>
+				<br>
 				<div class="cdPersonItm">
 					<div class="cdItmImg">
 						<img src="<?php echo base_url("public/img/miembros/4.png") ?>" alt="">
 					</div>
 					<div class="info">
 					<strong>HERBET BRACAMONTE</strong><br>
-					<div>
+					<div class ="titleP1">
 						DIRECTOR DE PATROCINIOS
 						Y EXPORTACIÓN
 					</div>
@@ -81,7 +83,8 @@
 					</div>
 					<div class="info">
 					<strong>JONATHAN LARA</strong><br>
-					<div>
+					JONATHAN@cadecoguate.com <br>
+					<div class ="titleP1">
 						DIRECTOR EJECUTIVO
 						EDUCACIÓN DE NEGOCIOS
 					</div>
@@ -96,11 +99,11 @@
 					</div>
 					<div class="info">
 					<strong>JAIRO TACAN</strong><br>
-					<div>
+					<div class ="titleP1">
 						DIRECTOR EJECUTIVO
 						DE MIGRATION
 					</div>
-
+					JAIRO@cadecoguate.com
 					<div class="cdOtherInfo">
 					CROSS PROMOTION MARKETING,
 					INC.
@@ -108,6 +111,7 @@
 					</div>				
 					</div>
 				</div>
+				<br>
 				<div class="cdPersonItm">
 					
 				</div>
@@ -117,7 +121,7 @@
 					</div>
 					<div class="info">
 					<strong>RAUL MACIAS</strong><br>
-					<div>
+					<div class ="titleP1">
 						DIRECTOR EJECUTIVO
 						DE MIGRATION
 					</div>

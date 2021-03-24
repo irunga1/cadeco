@@ -146,11 +146,14 @@ body{
     max-width: 300px;
     /* border: 1px solid gray; */
     display: inline-block;
-	width: 24%;
-	margin-left: 10px ;
-	margin-right: 10px;
-	margin-top: 15px;
-	text-align: center;
+    width: 24%;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 15px;
+    text-align: center;
+    /* border: 1px solid; */
+    height: 350px;
+    padding-top: 30px;
 }
 .cdItmImg{
 	text-align: center;
@@ -290,4 +293,8 @@ svg:not(:root) {
 	color:white;
 	font-size: 9pt;
 
+}
+
+.titleP1 {
+    height: 50px;
 }
