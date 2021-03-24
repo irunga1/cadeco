@@ -1,22 +1,20 @@
 <section class="tmMain">
 	<div class="cdupside"></div>
 	<div class="row fullsize" >
-		<div class="col-md-3">
-		</div>
-		<div class="col-md-9">
+		<div class="col-md-12">
 			<h2> <strong>MISIÓN Y METAS</strong> </h2>
 			<hr>
-			<div class="row fullsize">
+			<div class="row ">
 				<div class="col-md-6"></div>
 				<div class="col-md-6">
 					<div class="textContent">
 						<h5><strong>MISIÓN</strong></h5>
 						<p>
-						Cámara de Comercio Guatemalteca en Estados
-						Unidos es una organización binacional de
-						negocios que promueve las relacionescomerciales
-						de inversión e iniciativas de asociación entre
-						empresas guatemaltecas y estadounidenses.
+							Cámara de Comercio Guatemalteca en Estados
+							Unidos es una organización binacional de
+							negocios que promueve las relacionescomerciales
+							de inversión e iniciativas de asociación entre
+							empresas guatemaltecas y estadounidenses.
 						</p>
 					</div>
 				</div>
@@ -28,12 +26,10 @@
 <section class="tmMain">
 	<div class="cdupside"></div>
 	<div class="row fullsize" >
-		<div class="col-md-3">
-		</div>
-		<div class="col-md-9">
+		<div class="col-md-12">
 			<h2> <strong>MISIÓN Y METAS</strong> </h2>
 			<hr>
-			<div class="row fullsize">
+			<div class="row ">
 				<div class="col-md-6"></div>
 				<div class="col-md-6">
 					<div class="textContent">

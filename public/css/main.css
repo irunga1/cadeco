@@ -284,3 +284,10 @@ svg:not(:root) {
     padding: 10px 5px;
 	background-color: #AD2234;
 }
+
+.textContent{
+	background-color: #007BFF;
+	color:white;
+	font-size: 9pt;
+
+}
