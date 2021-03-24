@@ -5,7 +5,9 @@
 			<h2> <strong>MISIÓN Y METAS</strong> </h2>
 			<hr>
 			<div class="row ">
-				<div class="col-md-6"></div>
+				<div class="col-md-6">
+					<img src ="<?php echo base_url("public/img/antigua.jpg") ?>">
+				</div>
 				<div class="col-md-6">
 					<div class="textContent">
 						<h5><strong>MISIÓN</strong></h5>
@@ -29,7 +31,7 @@
 		<div class="col-md-12">
 			<h2> <strong>MISIÓN Y METAS</strong> </h2>
 			<hr>
-			<div class="row ">
+			<div class="row">
 				<div class="col-md-6"></div>
 				<div class="col-md-6">
 					<div class="textContent">
