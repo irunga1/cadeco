@@ -15,7 +15,7 @@
 					<div class="info">
 					<strong>RAFAEL OSCAL</strong><br>
 					<div class ="titleP1">PRESIDENTE CEO</div>
-					roscal@cadecoguate.com <br>
+						rafael@cadecoguate.com <br>
 					<div class="cdOtherInfo">
 					CROSS PROMOTION MARKETING,
 					INC.
@@ -32,7 +32,7 @@
 							<div class ="titleP1">
 							PRESIDENTE MEMBRESIAS Y PATROCINIOS
 							</div>					
-							maricarmen@cadecoguate.com <br>
+							carol@cadecoguate.com <br>
 							<br>
 						<div class="cdOtherInfo">
 							COMERCIO EXTERIOR GUATEMALA/USA
@@ -125,7 +125,7 @@
 						DIRECTOR EJECUTIVO
 						DE MIGRATION
 					</div>
-					jairo@cadecoguate.com <br>
+					raul@cadecoguate.com <br>
 					
 
 					<div class="cdOtherInfo">
