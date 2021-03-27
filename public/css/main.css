@@ -58,6 +58,7 @@ html, body{
     right: 25px;
     font-size: 36px;
     margin-left: 50px;
+    display: none !important;
 }
 
 @media screen and (max-height: 450px) {
@@ -147,8 +148,8 @@ body{
     /* border: 1px solid gray; */
     display: inline-block;
     width: 24%;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
     margin-top: 15px;
     text-align: center;
     /* border: 1px solid; */
@@ -298,4 +299,11 @@ svg:not(:root) {
 
 .titleP1 {
     height: 50px;
+}
+
+.closebtn {
+    display: none !important;
+}
+.dirContainer{
+    padding-left: 50px;
 }
