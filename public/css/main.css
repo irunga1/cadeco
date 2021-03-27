@@ -170,7 +170,8 @@ body{
 	text-align: center;
 	border: 1px dotted silver;
 	border-radius: 10px 10px;
-	font-size: 9pt;
+    font-size: 9pt;
+    min-height: 500px;
 	
 
 }
