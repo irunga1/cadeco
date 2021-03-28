@@ -1,7 +1,9 @@
 	
 	<div class="row mb-5">
+
 		
 		<div class="col-sm-12 col-md-9 col-lg-9 offset-sm-0 offset-md-0 offset-lg-1">
+
 			<h2 class="titulos"><strong>CONTÁCTANOS</strong></h2>
 			<hr>
 			<div class="row">
@@ -40,6 +42,17 @@
 		</div>
 
 	</div>
+
+	<div class="footer">
+	<div class="row">
+		<div class="col-md-12">
+			<img src="<?php echo base_url()."public/img/cln.png" ?>" alt="">
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12"><img src="" alt=""></div>
+	</div>
+</div>
 
 	
 

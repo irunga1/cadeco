@@ -80,6 +80,9 @@
 <div class="row mb-5">
 
 	<div class="col-lg-7 col-md-12 col-sm-12 offset-lg-1 offset-md-0 offset-sm-0">
+		<br>
+		<br>
+		<br>
 		
 		<h2 class="titulos">
 			<strong>MENSAJE DEL PRESIDENTE</strong>
