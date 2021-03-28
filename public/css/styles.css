@@ -308,6 +308,13 @@ p {
 	font-size: 60px;
 }
 
+.fondoBlancoAzul {
+    background: url('../img/bg.jpg') repeat-y center center fixed;
+}
+	
+
+
+
 /* ---------------------------------------------------
     FOOTER
 ----------------------------------------------------- */

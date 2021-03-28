@@ -12,6 +12,10 @@
 	<!-- /.jumbotron -->
 
 <div class="row mb-5">
+	<img src="<?php echo base_url("public/img/gchl.png") ?>" alt="" class="img-fluid mx-auto d-block">
+</div>
+
+<div class="row mb-5">
 	
 	<div class="card-deck">
 

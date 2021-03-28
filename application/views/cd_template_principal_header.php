@@ -1,6 +1,6 @@
 
-<!DOCTYPE html>
-<html>
+<!-- <!DOCTYPE html>
+<html> -->
 
 <head>
     <meta charset="utf-8">
@@ -12,7 +12,7 @@
     <!-- Bootstrap CSS CDN -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
     <!-- Our Custom CSS -->
-    <link rel="stylesheet" href="public/css/styles.css">
+    <link rel="stylesheet" href="<?php echo base_url("public/css/styles.css") ?> ">
 
     <!-- Font Awesome JS -->
     <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/solid.js" integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous"></script>
@@ -32,31 +32,31 @@
 
             <ul class="list-unstyled components">
                 <li>
-                    <a href="/principal">
-                        <i class="fas fa-home"></i>
+                    <a href="<?php echo base_url("/principal") ?>">
+                        <!-- <i class="fas fa-home"></i> -->
                         Inicio
                     </a>
                 </li>
                 <li>
-					<a href="/mision">
-						<i class="fas fa-copy"></i>
+					<a href="<?php echo base_url("/mision") ?>">
+						<!-- <i class="fas fa-copy"></i> -->
 						Mision
 					</a>
 
-                    <a href="/directorio">
-                        <i class="fas fa-briefcase"></i>
+                    <a href="<?php echo base_url("/directorio") ?>">
+                        <!-- <i class="fas fa-briefcase"></i> -->
                         Directorio
                     </a>
                 </li>
                 <li>
-                    <a href="/membresias">
-                        <i class="fas fa-image"></i>
+                    <a href="<?php echo base_url("/membresias") ?>">
+                        <!-- <i class="fas fa-image"></i> -->
                         Membresias
                     </a>
                 </li>
                 <li>
-                    <a href="/miembros">
-                        <i class="fas fa-question"></i>
+                    <a href="<?php echo base_url("/miembros") ?>">
+                        <!-- <i class="fas fa-question"></i> -->
                         Miembros
                     </a>
                 </li>
