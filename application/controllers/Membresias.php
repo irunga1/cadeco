@@ -5,8 +5,8 @@ class Membresias extends CI_Controller {
 
 	public function index()
 	{
-		$data["view"] ="membresias/index";
-		$this->load->view('cd_template',$data);
+		$data["view"] ="membresias/index2";
+		$this->load->view('cd_template_principal',$data);
 	}
 	public function base(){
 		echo base_url();
