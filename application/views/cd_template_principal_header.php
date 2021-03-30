@@ -32,7 +32,7 @@
 
             <ul class="list-unstyled components">
                 <li>
-                    <a href="<?php echo base_url("inicio")?>">
+                    <a href="<?php echo base_url("principal")?>">
                         Inicio
                     </a>
                 </li>
