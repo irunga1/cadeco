@@ -32,26 +32,26 @@
 
             <ul class="list-unstyled components">
                 <li>
-                    <a href="/principal">
+                    <a href="<?php echo base_url("inicio")?>">
                         Inicio
                     </a>
                 </li>
                 <li>
-					<a href="/mision">
+					<a href="<?php echo base_url("mision")?>">
 						Mision
 					</a>
 
-                    <a href="/directorio">
+                    <a href="<?php echo base_url("directorio")?>">
                         Directorio
                     </a>
                 </li>
                 <li>
-                    <a href="/membresias">
+                    <a href="<?php echo base_url("membresias")?>">
                         Membresias
                     </a>
                 </li>
                 <li>
-                    <a href="/miembros">
+                    <a href="<?php echo base_url("miembros")?>">
                         Miembros
                     </a>
                 </li>
