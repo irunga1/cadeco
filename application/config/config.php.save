@@ -26,8 +26,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 //$config['base_url'] = 'http://localhost/wpirunga1';
 // $config['base_url'] = 'http://localhost/cadeco';
 $config['base_url'] = 'http://52.207.9.238/cadeco';
-// $config['base_url'] = 'http://localhost/wpirunga1';
-//$config['base_url'] = 'http://local.desarrollo';
+<<<<<<< HEAD
+//$config['base_url'] = 'http://localhost/wpirunga1';
+=======// $config['base_url'] = 'http://localhost/wpirunga1';
+>>>>>>> 0650732c9309b94a9de1e4550b0d1ee24a5cb4ca
+// $config['base_url'] = 'http://local.desarrollo';
 
 /*
 |--------------------------------------------------------------------------
