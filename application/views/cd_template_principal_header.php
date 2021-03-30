@@ -38,7 +38,7 @@
                 </li>
                 <li>
 					<a href="<?php echo base_url("mision")?>">
-						Mision
+						Misión
 					</a>
 
                     <a href="<?php echo base_url("directorio")?>">
