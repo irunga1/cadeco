@@ -33,30 +33,25 @@
             <ul class="list-unstyled components">
                 <li>
                     <a href="/principal">
-                        <i class="fas fa-home"></i>
                         Inicio
                     </a>
                 </li>
                 <li>
 					<a href="/mision">
-						<i class="fas fa-copy"></i>
 						Mision
 					</a>
 
                     <a href="/directorio">
-                        <i class="fas fa-briefcase"></i>
                         Directorio
                     </a>
                 </li>
                 <li>
                     <a href="/membresias">
-                        <i class="fas fa-image"></i>
                         Membresias
                     </a>
                 </li>
                 <li>
                     <a href="/miembros">
-                        <i class="fas fa-question"></i>
                         Miembros
                     </a>
                 </li>

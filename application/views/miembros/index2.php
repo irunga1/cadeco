@@ -1,13 +1,6 @@
-
-<div class="row">
-	
-	<div class="col-sm-12 col-md-12 col-lg-9 offset-lg-1 mt-5">
-		<h1 class="titulos text-center">
-			Organizaciones Afiliadas
-		</h1>
-	</div>
+<div class="headerMision mb-5">
+	<h1>Misión y Metas</h1>
 </div>
-
 
 <div class="row mb-3">
 

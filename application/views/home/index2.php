@@ -1,5 +1,4 @@
 
-
 <div class="jumbotron jumbotron-fluid">
 	<div class="">
 		
@@ -9,73 +8,84 @@
 
 	</div>
 </div>
-	<!-- /.jumbotron -->
+
+<div class="row mb-5">
+	<div class="col-sm-6 offset-sm-3">
+		<img src="<?php echo base_url()."public/img/gchl.png"; ?>" class="img-fluid mx-auto d-block" alt="CADECOGUATE">
+	</div>
+</div>
 
 <div class="row mb-5">
 	
-	<div class="card-deck">
+	<div class="col-sm-10 offset-sm-1">
 
-		<div class="col-lg-3 col-md-12 col-sm-12 offset-lg-1 d-flex align-items-stretch">
+		<div class="card-deck">
 
-			<div class="card">
-				<img src="<?php echo base_url()."public/img/index_maya_feria.png"; ?>" class="card-img-top" alt="MAYA la Gran Feria Internacional">
-				<div class="card-body">
-					<h5 class="card-title">
-						<strong>MAYA la Gran Feria Internacional</strong>
-					</h5>
-					<p class="card-text">
-						No es sólo otra feria, es un evento que celebra la cultura, el arte y la tradición de los países participantes. Además de divertirse, promocionar sus productos nacionales y su cultura, támbién esta contribuyendo con organizaciones no lucrativas como: La Cámara de Comercio Guatemala USA, Organización sin Fines de Lucro, Estado Tributario . Todos los inmigrantes de países participantes presentes y es una oportunidad para celebrar y revivir nuestras raíces en un ambiente divertido y festivo con música, comida y entretenimiento 
-					</p>
+			<div class="col d-flex align-items-stretch mb-3">
+
+				<div class="card">
+					<img src="<?php echo base_url()."public/img/index_maya_feria.png"; ?>" class="card-img-top" alt="MAYA la Gran Feria Internacional">
+					<div class="card-body">
+						<h5 class="card-title">
+							<strong>MAYA la Gran Feria Internacional</strong>
+						</h5>
+						<p class="card-text">
+							No es sólo otra feria, es un evento que celebra la cultura, el arte y la tradición de los países participantes. Además de divertirse, promocionar sus productos nacionales y su cultura, támbién esta contribuyendo con organizaciones no lucrativas como: La Cámara de Comercio Guatemala USA, Organización sin Fines de Lucro, Estado Tributario . Todos los inmigrantes de países participantes presentes y es una oportunidad para celebrar y revivir nuestras raíces en un ambiente divertido y festivo con música, comida y entretenimiento 
+						</p>
+					</div>
+					<hr>
+					<a href="#" class="mx-auto"> Ver Más </a>
 				</div>
-				<hr>
-				<a href="#" class="mx-auto"> Ver Más </a>
+
 			</div>
 
-		</div>
+			<div class="col d-flex align-items-stretch mb-3">
 
-		<div class="col-lg-3 col-md-12 col-sm-12 d-flex align-items-stretch">
-
-			<div class="card">
-				<img src="<?php echo base_url()."public/img/index_manos.png"; ?>" class="card-img-top" alt="CADECOGUATE">
-				<div class="card-body">
-					<h5 class="card-title">
-						<strong>CADECOGUATE</strong>
-					</h5>
-					<p class="card-text">
-						Cámara de Comercio de Guatemala en Estados Unidos presentará el apoyo para los segmentos mas importantes de Guatemala. ¡Conexión directa y virtual entre Guatemala y Estados Unidos! Nuestra próxima presentación virtual la conocerás y todos sus beneficios para formar parte de Cámara. Iniciativa de alguna foto que desees implementar aquí en la última parte. 
-					</p>
+				<div class="card">
+					<img src="<?php echo base_url()."public/img/index_manos.png"; ?>" class="card-img-top" alt="CADECOGUATE">
+					<div class="card-body">
+						<h5 class="card-title">
+							<strong>CADECOGUATE</strong>
+						</h5>
+						<p class="card-text">
+							Cámara de Comercio de Guatemala en Estados Unidos presentará el apoyo para los segmentos mas importantes de Guatemala. ¡Conexión directa y virtual entre Guatemala y Estados Unidos! Nuestra próxima presentación virtual la conocerás y todos sus beneficios para formar parte de Cámara. Iniciativa de alguna foto que desees implementar aquí en la última parte. 
+						</p>
+					</div>
+					<hr>
+					<a href="#" class="mx-auto"> Ver Más </a>
 				</div>
-				<hr>
-				<a href="#" class="mx-auto"> Ver Más </a>
+
 			</div>
 
-		</div>
+			<div class="col d-flex align-items-stretch mb-3">
 
-		<div class="col-lg-3 col-md-12 col-sm-12 d-flex align-items-stretch">
-
-			<div class="card">
-				<img src="<?php echo base_url()."public/img/index_lata.png" ?>" class="card-img-top" alt="CADECOGUATE">
-				<div class="card-body">
-					<h5 class="card-title">
-						<strong>UNDECO</strong>
-					</h5>
-					<p class="card-text">
-					El movimiento unido de CADECOGUATE para el apoyo en donación de alimentos en comunidades , ha logrado alcanzar a más de 162,000 familias latinas logrando un impacto social impresionante en los Ángeles. Se ha convertido en la plataforma de apoyo mensual de las personas que lo necesitan. ¡Conocerás más resultados pronto 
-					</p>
+				<div class="card">
+					<img src="<?php echo base_url()."public/img/index_lata.png" ?>" class="card-img-top" alt="CADECOGUATE">
+					<div class="card-body">
+						<h5 class="card-title">
+							<strong>UNDECO</strong>
+						</h5>
+						<p class="card-text">
+						El movimiento unido de CADECOGUATE para el apoyo en donación de alimentos en comunidades , ha logrado alcanzar a más de 162,000 familias latinas logrando un impacto social impresionante en los Ángeles. Se ha convertido en la plataforma de apoyo mensual de las personas que lo necesitan. ¡Conocerás más resultados pronto 
+						</p>
+					</div>
+					<hr>
+					<a href="#" class="mx-auto"> Ver Más </a>
 				</div>
-				<hr>
-				<a href="#" class="mx-auto"> Ver Más </a>
+
 			</div>
 
-		</div>
-
+			</div>
 	</div>
 
 </div>
 
-<div class="row mb-5">
+<div class="row mb-5"></div>
+<div class="row mb-5"></div>
 
-	<div class="col-lg-7 col-md-12 col-sm-12 offset-lg-1 offset-md-0 offset-sm-0">
+<div class="row mb-5 p-3">
+
+	<div class="col-lg-8 col-md-12 col-sm-10 offset-md-1 offset-lg-1 offset-sm-1">
 		
 		<h2 class="titulos">
 			<strong>MENSAJE DEL PRESIDENTE</strong>
@@ -105,11 +115,14 @@
 	
 </div>
 
+<div class="row mb-5"></div>
+<div class="row mb-5"></div>
+
 <div class="tmMainImagen col-sm-12 mb-5">
 
-	<div class="row p-5">
+	<div class="row pt-5 pb-5">
 			
-		<div class="col-sm-12 col-md-5 col-lg-6 offset-sm-0 offset-md-0 offset-lg-1" id="fondoHistoria">
+		<div class="col-sm-12 col-lg-6 offset-lg-1" id="fondoHistoria">
 
 			<h2>
 				<strong>HISTORIA</strong>

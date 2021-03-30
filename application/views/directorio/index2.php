@@ -1,14 +1,6 @@
-
-<div class="row mb-5">
-	
-	<div class="col-sm-12 col-md-12 col-lg-9 offset-lg-1 mt-5">
-		<h1 class="titulos text-center">
-			DIRECTORIO
-		</h1>
-		<hr class="bordeHr">
-	</div>
+<div class="headerDirectorio mb-5">
+	<h1>Directorio</h1>
 </div>
-
 
 <div class="row mb-5 offset-lg-1">
 
