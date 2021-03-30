@@ -145,3 +145,12 @@
 	</div>
 					
 </div>
+<style>
+.jumbotron {
+    padding: 20rem 2rem;
+	padding-right: 2rem;
+	padding-left: 2rem;
+	height: 15%;
+
+}
+</style>
