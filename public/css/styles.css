@@ -239,6 +239,7 @@ p {
 .jumbotron {
 	position: relative;
 	background-color:black;
+	height: 17%;
   }
 
 .jumbotron video {
