@@ -19,7 +19,7 @@
 	
 	<div class="col-sm-10 offset-sm-1">
 
-		<div class="card-deck">
+		<div class="card-deck d-block">
 
 			<div class="col d-flex align-items-stretch mb-3">
 
@@ -75,7 +75,7 @@
 
 			</div>
 
-			</div>
+		</div>
 	</div>
 
 </div>
