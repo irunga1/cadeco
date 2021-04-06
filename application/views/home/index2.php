@@ -107,9 +107,9 @@
 		</p>
 	</div>
 
-	<div class="col-sm-12 col-md-2 col-lg-2">
+	<div class="col-sm-12 col-md-3 col-lg-3">
 
-		<img src="<?php echo base_url()."public/img/ceo.png" ?>" class="card-img-top img-fluid" alt="CADECOGUATE">
+		<img src="<?php echo base_url()."public/img/ceo.png" ?>" id="pelon" class="card-img-top img-fluid" alt="CADECOGUATE">
 		
 	</div>
 	
@@ -162,5 +162,8 @@
     object-fit: cover;
     opacity: 0.5;
     margin-left: -32px;
+}
+#pelon {
+    margin-top: 50px;
 }
 </style>

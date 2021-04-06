@@ -472,3 +472,116 @@ svg:not(:root) {
         display: none;
     }
 }
+
+/* hotfix */
+.ul li {
+    display:none;
+    
+}
+.ul2 li{
+	border: 1px solid white;
+	padding-top: 5px;
+	text-align: center;
+	padding-left: 8px;
+	padding-right: 5px;
+	border-radius: 30px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+/*MENU*/
+#fixed-div {
+    position: fixed;
+    top: 1em;
+    left: 1em;
+    background-color: "#fff";
+    z-index: 9999;
+}
+
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #AD2234;        
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+	z-index: 1000000;
+	min-width: 250px;
+	/* width: 23%; */
+}
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 15px;
+    color: #FFF;
+    display: block;
+    transition: 0.3s;
+}
+.mItem{
+    display: inline-block;
+    
+    padding:3px
+}
+
+.sidenav .mItem:hover{
+    display: inline-block;
+    border-bottom: 1px dotted #fff;
+    padding:3px
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+    display: none !important;
+}
+
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+}
+.logoContainer {
+    width: 100%;
+    /* border: 1px solid; */
+    text-align: center;
+}   
+.logoContainer img{
+	width: 180px;
+}
+.quitarBullets{
+	padding-left: 0px;
+	font-weight: 300;
+}
+.quitarBullets li{
+	/* padding-left: 0px; */
+	font-weight: 300;
+	font-size: 15px;
+}
+.bw{
+	word-break: break-all;
+}
+.text-center {
+    text-align: center !important;
+    font-size: 13px;
+}
+.headerMembresias h1 {
+    display: flex;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+    font-size: 60px;
+    margin-top: -65px;
+}
+/*MENU*/
+/* hotfix */
