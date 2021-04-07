@@ -6,8 +6,9 @@
 	
 	<div class="row align-items-center ">
 
-		<div class="col-sm-12 col-md-12 col-lg-5 offset-lg-1">
-			<img src ="<?php echo base_url("public/img/antigua.jpg") ?>" class="img-fluid">
+		<!-- <div class="col-sm-12 col-md-12 col-lg-5 offset-lg-1"> -->
+		<div class="col-sm-12 col-md-12 col-lg-7 nopadding ">
+			<img src ="<?php echo base_url("public/img/antigua.jpg") ?>" class="img-fluid ml30" >
 		</div>
 		<div class="col-sm-12 col-md-12 col-lg-5">
 			<h5 class="text-white">MISIÓN</h5>
@@ -22,8 +23,8 @@
 
 		<div class="row mt-5 mb-5 align-items-center">
 
-		<div class="col-sm-12 col-md-12 col-lg-5 offset-lg-1">
-			<img src ="<?php echo base_url("public/img/personas.png") ?>" class="img-fluid">
+		<div class="col-sm-12 col-md-12 col-lg-7 nopadding ">
+			<img src ="<?php echo base_url("public/img/personas.png") ?>" class="img-fluid ml30" >
 		</div>
 		<div class="col-sm-12 col-md-12 col-lg-5">
 			<h5 class="text-white">METAS</h5>
@@ -55,3 +56,11 @@
 	</div>
 
 </div>
+<style>
+.nopadding{
+	padding-left: 0px;
+}
+.ml30{
+	margin-left: -30px;
+}
+</style>

@@ -83,7 +83,7 @@
 <div class="row mb-5"></div>
 <div class="row mb-5"></div>
 
-<div class="row mb-5 p-3">
+<div class="row mb-5 p-5">
 
 	<div class="col-lg-8 col-md-12 col-sm-10 offset-md-1 offset-lg-1 offset-sm-1">
 		
@@ -165,5 +165,10 @@
 }
 #pelon {
     margin-top: 50px;
+}
+.p-5 {
+    padding: 3rem !important;
+        padding-right: 3rem;
+    padding-right: 6rem !important;
 }
 </style>

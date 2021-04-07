@@ -425,6 +425,13 @@ svg:not(:root) {
 ----------------------------------------------------- */
 
 @media (max-width: 768px) {
+	#sidebar {
+		font-size: 10px;
+	}
+	.closebtn {
+
+		display: block !important;
+	}
     #sidebar {
         min-width: 80px;
         max-width: 80px;
@@ -510,7 +517,7 @@ svg:not(:root) {
     transition: 0.5s;
     padding-top: 60px;
 	z-index: 1000000;
-	min-width: 250px;
+	/* min-width: 250px; */
 	/* width: 23%; */
 }
 
@@ -537,19 +544,22 @@ svg:not(:root) {
 .sidenav a:hover {
     color: #f1f1f1;
 }
-
 .sidenav .closebtn {
     position: absolute;
     top: 0;
     right: 25px;
     font-size: 36px;
     margin-left: 50px;
-    display: none !important;
+    display: none;
 }
 
 @media screen and (max-height: 450px) {
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}
+	.closebtn {
+
+		display: block !important;
+	}
 }
 .logoContainer {
     width: 100%;
@@ -571,7 +581,7 @@ svg:not(:root) {
 .bw{
 	word-break: break-all;
 }
-.text-center {
+.text-center {}
     text-align: center !important;
     font-size: 13px;
 }
@@ -583,5 +593,6 @@ svg:not(:root) {
     font-size: 60px;
     margin-top: -65px;
 }
+
 /*MENU*/
 /* hotfix */
