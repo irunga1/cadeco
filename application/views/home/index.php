@@ -75,8 +75,7 @@
 								<strong>UNDECO</strong>
 							</h5>
 							<p class="card-text">
-							El movimiento unido de CADECOGUATE para el apoyo en donación de alimentos en comunidades , ha logrado alcanzar a más de 162,000 familias latinas logrando un impacto social impresionante en los Ángeles. Se ha convertido en la plataforma de apoyo mensual de las personas que lo necesitan. ¡Conocerás más resultados pronto 
-							</p>
+							El movimiento unido de CADECOGUATE para el apoyo en donación de alimentos en comunidades , ha logrado alcanzar a más de 162,000 familias latinas logrando un impacto social impresionante en los Ángeles. Se ha convertido en la plataforma de apoyo mensual de las personas que lo necesitan. ¡Conocerás más resultados pronto!							</p>
 						</div>
 						<hr>
 						<a href="#" class="mx-auto"> Ver Más </a>

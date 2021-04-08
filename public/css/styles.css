@@ -11,13 +11,14 @@ body {
     background: #F1F1F1;
 	overflow-x: hidden;
 	overflow-y: scroll;
+	font-size: 1.2rem !important;
 }
 
 p {
     font-family: 'Poppins', sans-serif;
     font-size: 0.9em;
     font-weight: 300;
-    line-height: 1.7em;
+    line-height: 1.9em;
     color: #111;
 }
 
@@ -563,12 +564,17 @@ svg:not(:root) {
 }
 .logoContainer {
     width: 100%;
-    /* border: 1px solid; */
     text-align: center;
+	margin-bottom: 40px !important;
 }   
 .logoContainer img{
 	width: 180px;
 }
+
+.mySidenav a {
+	padding-left: 10px;
+}
+
 .quitarBullets{
 	padding-left: 0px;
 	font-weight: 300;
@@ -581,10 +587,11 @@ svg:not(:root) {
 .bw{
 	word-break: break-all;
 }
-.text-center {}
-    text-align: center !important;
-    font-size: 13px;
+
+.card-header {
+	font-size: 15px;
 }
+
 .headerMembresias h1 {
     display: flex;
     align-items: center;

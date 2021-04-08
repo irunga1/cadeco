@@ -27,11 +27,11 @@
 		</div>
 
 	<a href="javascript:void(0)" class="closebtn" onclick="obj1.closeNav();">&times;</a>
-	<a href="<?php echo base_url("principal") ?>"> <i class="fa fa-home" aria-hidden="true"></i> <span class="mItem">Inicio</span> </a>
-	<a href="<?php echo base_url("mision") ?>"> <i class="fas fa-trophy" aria-hidden="true"></i><span class="mItem">Mision</span></a>
-	<a href="<?php echo base_url("directorio") ?>"> <i class="fas fa-book-open" aria-hidden="true"></i><span class="mItem">Directorio</span> </a>
-	<a href="<?php echo base_url("membresias") ?>"> <i class="fas fa-bookmark" aria-hidden="true"></i><span class="mItem">Membresias</span> </a>
-	<a href="<?php echo base_url("miembros") ?>"> <i class="fas fa-user-friends" aria-hidden="true"></i><span class="mItem">Miembros</span> </a>
+	<a href="<?php echo base_url("principal") ?>"> <i class="fa fa-home mr-3" aria-hidden="true"></i> <span class="mItem">Inicio</span> </a>
+	<a href="<?php echo base_url("mision") ?>"> <i class="fas fa-trophy mr-3" aria-hidden="true"></i><span class="mItem">Mision</span></a>
+	<a href="<?php echo base_url("directorio") ?>"> <i class="fas fa-book-open mr-3" aria-hidden="true"></i><span class="mItem">Directorio</span> </a>
+	<a href="<?php echo base_url("membresias") ?>"> <i class="fas fa-bookmark mr-3" aria-hidden="true"></i><span class="mItem">Membresias</span> </a>
+	<a href="<?php echo base_url("miembros") ?>"> <i class="fas fa-user-friends mr-3" aria-hidden="true"></i><span class="mItem">Miembros</span> </a>
 	</div>
 
 

@@ -30,7 +30,7 @@
 							<strong>MAYA la Gran Feria Internacional</strong>
 						</h5>
 						<p class="card-text">
-							No es sólo otra feria, es un evento que celebra la cultura, el arte y la tradición de los países participantes. Además de divertirse, promocionar sus productos nacionales y su cultura, támbién esta contribuyendo con organizaciones no lucrativas como: La Cámara de Comercio Guatemala USA, Organización sin Fines de Lucro, Estado Tributario . Todos los inmigrantes de países participantes presentes y es una oportunidad para celebrar y revivir nuestras raíces en un ambiente divertido y festivo con música, comida y entretenimiento 
+							No es sólo otra feria, es un evento que celebra la cultura, el arte y la tradición de los países participantes. Además de divertirse, promocionar sus productos nacionales y su cultura, támbién esta contribuyendo con organizaciones no lucrativas como: La Cámara de Comercio Guatemala USA, Organización sin Fines de Lucro, Estado Tributario . Todos los inmigrantes de países participantes presentes y es una oportunidad para celebrar y revivir nuestras raíces en un ambiente divertido y festivo con música, comida y entretenimiento.
 						</p>
 					</div>
 					<hr>
@@ -66,7 +66,7 @@
 							<strong>UNDECO</strong>
 						</h5>
 						<p class="card-text">
-						El movimiento unido de CADECOGUATE para el apoyo en donación de alimentos en comunidades , ha logrado alcanzar a más de 162,000 familias latinas logrando un impacto social impresionante en los Ángeles. Se ha convertido en la plataforma de apoyo mensual de las personas que lo necesitan. ¡Conocerás más resultados pronto 
+						El movimiento unido de CADECOGUATE para el apoyo en donación de alimentos en comunidades , ha logrado alcanzar a más de 162,000 familias latinas logrando un impacto social impresionante en los Ángeles. Se ha convertido en la plataforma de apoyo mensual de las personas que lo necesitan. ¡Conocerás más resultados pronto!
 						</p>
 					</div>
 					<hr>

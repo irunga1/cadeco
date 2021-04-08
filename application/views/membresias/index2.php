@@ -51,7 +51,7 @@
 	
 	<div class="col-sm-12 col-md-12 col-lg-10 offset-lg-1 mt-5">
 		<h1 class="titulos text-center">
-			MEMBRESÍAS
+			<strong>MEMBRESÍAS</strong>
 		</h1>
 		<hr class="bordeHr">
 		<p class="text-center">Inscríbete y forma parte como socio activo de CADECOGUATE</p>
@@ -70,7 +70,7 @@
 
 				<div class="card">
 					<div class="card-header cdRed text-white text-center">
-						Estudiante o Empresas Nuevas
+						Estudiante o <br>Empresas Nuevas
 					</div>
 					<div class="card-body">
 						<h2 class="text-center mb-3"> $150 </h2>
@@ -94,7 +94,7 @@
 
 				<div class="card">
 					<div class="card-header cdRed text-white text-center">
-						Socio Autonomo, Microempresa Pyme
+						Socio Autonomo, <br>Microempresa Pyme
 					</div>
 					<div class="card-body">
 						<h2 class="text-center mb-3"> $500 </h2>
