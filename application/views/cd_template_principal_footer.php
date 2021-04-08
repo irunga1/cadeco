@@ -69,7 +69,7 @@
 				</svg></li>
 		</div>
 
-		<p class="text-center text-white" style="font-size: 12px;">
+		<p class="text-center text-white pt-3" style="font-size: 12px;">
 			&copy; <?=date('Y')?> Todos los derechos reservados.
 		</p>
 	</footer>	

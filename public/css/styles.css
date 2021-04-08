@@ -392,7 +392,7 @@ p {
 ----------------------------------------------------- */
 
 .footer {
-    height: 275px;    
+    height: 290px;    
 	background-color: #0162AA;
 	text-align: center;
 }
@@ -569,6 +569,7 @@ svg:not(:root) {
 }   
 .logoContainer img{
 	width: 250px;
+	margin-left: -5px;
 }
 
 .mySidenav a {
