@@ -19,9 +19,9 @@
 	
 	<div class="col-sm-10 offset-sm-1">
 
-		<div class="card-deck d-block">
+		<div class="card-deck">
 
-			<div class="col d-flex align-items-stretch mb-3">
+			<div class="col-sm-4 d-flex align-items-stretch mb-3">
 
 				<div class="card">
 					<img src="<?php echo base_url()."public/img/index_maya_feria.png"; ?>" class="card-img-top" alt="MAYA la Gran Feria Internacional">
@@ -30,7 +30,7 @@
 							<strong>MAYA la Gran Feria Internacional</strong>
 						</h5>
 						<p class="card-text">
-							No es sólo otra feria, es un evento que celebra la cultura, el arte y la tradición de los países participantes. Además de divertirse, promocionar sus productos nacionales y su cultura, támbién esta contribuyendo con organizaciones no lucrativas como: La Cámara de Comercio Guatemala USA, Organización sin Fines de Lucro, Estado Tributario . Todos los inmigrantes de países participantes presentes y es una oportunidad para celebrar y revivir nuestras raíces en un ambiente divertido y festivo con música, comida y entretenimiento.
+							No es sólo otra feria, es un evento que celebra la cultura, el arte y la tradición de los países participantes. Además de divertirse, promocionar sus productos nacionales y su cultura, támbién esta contribuyendo con organizaciones no lucrativas como: La Cámara de Comercio Guatemala USA, Organización sin Fines de Lucro, Estado Tributario . Todos los inmigrantes de países participantes presentes y es una oportunidad para celebrar y revivir nuestras raíces en un ambiente divertido y festivo con música, comida y entretenimiento
 						</p>
 					</div>
 					<hr>
@@ -39,7 +39,7 @@
 
 			</div>
 
-			<div class="col d-flex align-items-stretch mb-3">
+			<div class="col-sm-4 d-flex align-items-stretch mb-3">
 
 				<div class="card">
 					<img src="<?php echo base_url()."public/img/index_manos.png"; ?>" class="card-img-top" alt="CADECOGUATE">
@@ -57,7 +57,7 @@
 
 			</div>
 
-			<div class="col d-flex align-items-stretch mb-3">
+			<div class="col-sm-4 d-flex align-items-stretch mb-3">
 
 				<div class="card">
 					<img src="<?php echo base_url()."public/img/index_lata.png" ?>" class="card-img-top" alt="CADECOGUATE">
