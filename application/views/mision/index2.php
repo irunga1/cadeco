@@ -8,7 +8,7 @@
 
 		<!-- <div class="col-sm-12 col-md-12 col-lg-5 offset-lg-1"> -->
 		<div class="col-sm-12 col-md-12 col-lg-7 nopadding ">
-			<img src ="<?php echo base_url("public/img/antigua.jpg") ?>" class="img-fluid ml30" >
+			<img src ="<?php echo base_url("public/img/antigua.jpg") ?>" class="img-fluid ml30 mx-auto d-block" >
 		</div>
 		<div class="col-sm-12 col-md-12 col-lg-5">
 			<h5 class="text-white">MISIÓN</h5>
@@ -24,7 +24,7 @@
 		<div class="row mt-5 mb-5 align-items-center">
 
 		<div class="col-sm-12 col-md-12 col-lg-7 nopadding ">
-			<img src ="<?php echo base_url("public/img/personas.png") ?>" class="img-fluid ml30" >
+			<img src ="<?php echo base_url("public/img/personas.png") ?>" class="img-fluid ml30 mx-auto d-block" >
 		</div>
 		<div class="col-sm-12 col-md-12 col-lg-5">
 			<h5 class="text-white">METAS</h5>

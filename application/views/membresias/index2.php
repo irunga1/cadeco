@@ -64,7 +64,7 @@
 
 	<div class="col-sm-11">
 		
-		<div class="card-deck">
+		<div class="card-deck d-block">
 
 			<div class="col offset-lg-1 d-flex align-items-stretch">
 
@@ -158,7 +158,7 @@
 
 	<div class="col-sm-10">
 	
-		<div class="card-deck">
+		<div class="card-deck d-block">
 
 			<div class="col offset-md-3 d-flex align-items-stretch">
 

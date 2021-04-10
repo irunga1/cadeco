@@ -1,6 +1,6 @@
 <div class="row mb-5"></div>
 	
-	<div class="row mb-5">
+	<div class="row mb-5 p-3">
 		
 		<div class="col-sm-12 col-md-10 col-lg-10 offset-sm-1">
 			<h2 class="titulos"><strong>CONTÁCTANOS</strong></h2>
