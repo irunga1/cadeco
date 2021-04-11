@@ -9,6 +9,8 @@
 		<div class="text-center">
 			<strong>RAFAEL OSCAL</strong>
 			<br>
+			PRESIDENTE CEO
+			<br>
 			rafael@cadecoguate.com
 			<br>
 			CROSS PROMOTION MARKETING, INC. LOS ANGELES CA
@@ -19,6 +21,8 @@
 		<img src="<?php echo base_url("public/img/miembros/2.png") ?>" class="mx-auto d-block" alt="">
 		<div class="text-center">
 			<strong>CAROLINA AREVALO</strong>
+			<br>
+			PRESIDENTE
 			<br>
 			carol@cadecoguate.com
 			<br>
@@ -31,9 +35,11 @@
 		<div class="text-center">
 			<strong>MARICARMEN FUENTES</strong>
 			<br>
+			VICE PRESIDENTE
+			<br>
 			maricarmen@cadecoguate.com
 			<br>
-			CROSS PROMOTION MARKETING, INC. LOS ANGELES CA
+			Comercio Exterior Guatemala / USA
 		</div>
 	</div>
 
@@ -58,7 +64,8 @@
 			<br>
 			raul@cadecoguate.com
 			<br>
-			CROSS PROMOTION MA
+			REMA MARITIMA </br>
+			GUATEMALA/USA
 		</div>
 	</div>
 
@@ -67,6 +74,8 @@
 		<img src="<?php echo base_url("public/img/miembros/5.png") ?>" class="mx-auto d-block" alt="">
 		<div class="text-center">
 			<strong>JONATHAN LARA</strong>
+			<br>
+			DIRECTOR EJECUTIVO
 			<br>
 			jonathan@cadecoguate.com
 			<br>
@@ -79,9 +88,11 @@
 		<div class="text-center">
 			<strong>JAIRO TACAN</strong>
 			<br>
+			DIRECTOR EJECUTIVO
+			<br>
 			jairo@cadecoguate.com
 			<br>
-			CROSS PROMOTION MARKETING, INC. LOS ANGELES CA
+			REFLEXIONES DE VIDA
 		</div>
 	</div>
 
@@ -92,3 +103,9 @@
 	
 
 </div>
+
+<style>
+body{
+	font-size: 0.85rem!important;
+}
+</style>

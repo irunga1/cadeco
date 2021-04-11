@@ -15,7 +15,7 @@
 			<hr>
 			<p class="text-white">
 			Cámara de Comercio Guatemalteca en Estados Unidos es una organización binacional de negocios que promueve 
-			las relacionescomerciales de inversión e iniciativas de asociación entre empresas guatemaltecas y estadounidenses.
+			las relaciones comerciales de inversión e iniciativas de asociación entre empresas guatemaltecas y estadounidenses.
 			</p>
 		</div>
 
@@ -32,9 +32,7 @@
 			<ul class="quitarBullets text-white">
 				<li class="mb-3">
 					Introducción de las empresas guatemaltecas
-					al ámbito comercial y tengan la oportunidad de ex-
-					pandirse a las oportunidades en el mercado nor-
-					teamericano.
+					al ámbito comercial y tengan la oportunidad de expandirse a las oportunidades en el mercado norteamericano.
 				</li>
 				<li class="mb-3">
 					Participación como socios en: Programas cívi-
@@ -42,8 +40,7 @@
 				</li>
 				<li class="mb-3">
 					Crear una mejor imagen, comprensión y
-					apreciación de la importancia del mercado de Gua-
-					temala en Estados Unidos.
+					apreciación de la importancia del mercado de Guatemala en Estados Unidos.
 				</li>
 				<li class="mb-3">
 					Participación en programas cívicos, sociales,
